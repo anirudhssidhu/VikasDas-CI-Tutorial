@@ -1,2 +1,8 @@
 1. create virtual env and run requirements.txt file
 2. write the app.py code and run command "streamlit run app.py"
+3. folder structure:
+    - .github
+        - workflows
+            -ci.yaml
+            
+4.
